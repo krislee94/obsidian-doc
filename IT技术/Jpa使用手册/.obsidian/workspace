@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "df47f9138f6b0b51",
+    "type": "split",
+    "children": [
+      {
+        "id": "863c31df59eb9a32",
+        "type": "leaf",
+        "dimension": 67.8714859437751,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "复杂查询.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e510a686a45653a1",
+        "type": "leaf",
+        "dimension": 32.1285140562249,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "基础查询.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "070abe88c85029c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5484f4e0c364da0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1730d036adde5bff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eda27a60616e1629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "719f5d0aa82015cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae16a46fc6045bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34cc7a52aacd1b09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "复杂查询.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "863c31df59eb9a32",
+  "lastOpenFiles": [
+    "复杂查询.md",
+    "JAP的使用.md",
+    "同源数据库的多源支持.md",
+    "异构数据库多源支持.md",
+    "条件动态查询.md",
+    "分页查询.md",
+    "限制查询.md",
+    "自定义sql查询.md",
+    "多表查询.md",
+    "默认方式.md"
+  ]
+}

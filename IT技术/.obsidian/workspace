@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "0388352dea8a6543",
+    "type": "split",
+    "children": [
+      {
+        "id": "283d2204da5194ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docker使用手册/README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a8e9b3fb6064bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "82fd8cac647e03fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94bf89eaecf42f0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "400e791fe80bc946",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260
+  },
+  "right": {
+    "id": "cff35d7432a01aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f9b01e8e771251e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97dc948e1158120c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docker使用手册/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "283d2204da5194ec",
+  "lastOpenFiles": [
+    "docker使用手册/README.md",
+    "docker- 思考题3.md",
+    "docker使用手册/docker-思考题2.md",
+    "数据卷.md",
+    "网络.md",
+    "容器.md",
+    "docker使用手册/docker-思考题1.md",
+    "docker使用手册/联合文件系统 ( Union File System ).md",
+    "镜像.md",
+    "docker使用手册/控制组 ( Control Groups ).md"
+  ]
+}
